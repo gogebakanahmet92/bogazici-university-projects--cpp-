@@ -1,4 +1,4 @@
-## Description
+## Description (Keyword : Hashing)
 
 Cmpe Airlines is an airline company that aims to provide highest quality services for their customers. They are planning to change their customer assignment policy, and you are expected to build a system that assigns customers to the airplane seats with desired constraints.
 
