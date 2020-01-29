@@ -1,0 +1,3 @@
+/Users/ahmetgogebakan/Downloads/cmpe250-assignment4-ahmetgogebakan92-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ahmetgogebakan/Downloads/cmpe250-assignment4-ahmetgogebakan92-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ahmetgogebakan/Downloads/cmpe250-assignment4-ahmetgogebakan92-master/cmake-build-debug/CMakeFiles/cmpe250-assignment4.dir

@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ahmetgogebakan/Downloads/cmpe250-assignment4-ahmetgogebakan92-master/HelpStudents.cpp
+HelpStudents.h
+/Users/ahmetgogebakan/Downloads/cmpe250-assignment4-ahmetgogebakan92-master/HelpStudents.h
+
+/Users/ahmetgogebakan/Downloads/cmpe250-assignment4-ahmetgogebakan92-master/HelpStudents.h
+vector
+-
+iostream
+-
+fstream
+-
+set
+-
+list
+-
+limits
+-
+bits/stdc++.h
+-
+
+/Users/ahmetgogebakan/Downloads/cmpe250-assignment4-ahmetgogebakan92-master/main.cpp
+iostream
+-
+utility
+-
+sstream
+-
+HelpStudents.h
+/Users/ahmetgogebakan/Downloads/cmpe250-assignment4-ahmetgogebakan92-master/HelpStudents.h
+
